@@ -2,7 +2,7 @@
 title: "Disruption Tolerance Index for determining household susceptibility to infrastructure service disruptions"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'The objective of this paper is to develop household susceptibility indices related to disruptions in infrastructure services during disasters. We developed a Disruption Tolerance Index score that aims to understand the spatial patterns of susceptibility to service disruptions. My contribution on the project was to create the visual maps using GIS'
 date: 2021-7-01
 venue: 'International Journal of Disaster Risk Reduction'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
