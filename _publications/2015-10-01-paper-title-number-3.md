@@ -3,7 +3,7 @@ title: "Examining spatial clusters for identifying risk hotspots of communities 
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2021
+date: 2021-08-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-SGJS5UAAAAJ&citation_for_view=-SGJS5UAAAAJ:d1gkVwhDpl0C'
