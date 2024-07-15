@@ -1,5 +1,5 @@
 ---
-title: "Spatial Biases in Crowdsourced data: Social media content attention concentrates on populous areas in disasters"
+title: "Spatial Biases in Crowdsourced Data: Social Media Content Attention Concentrates on Populous Areas in Disasters"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about examining and quantifying the relationships among sociodemographic factors, damage claims, and social media attention on areas during a disaster. The research obtained disaster related tweets through twitter's API and through a content based analysis the research found that the relationship between population and social media attention is chacterized by a sub-linear power law. '
