@@ -6,6 +6,7 @@ excerpt: 'This paper is about examining and quantifying the relationships among 
 date: 2020-9-01
 venue: 'Computers, Enviornment and Urban Systems'
 paperurl: 'https://scholar.google.com/citations?view_op=view_citation&hl=en&user=-SGJS5UAAAAJ&citation_for_view=-SGJS5UAAAAJ:u5HHmVD_uO8C'
+slide url:
 citation: 'Fan, C., Esparza, M., Dargin, J., Wu, F., Oztekin, B., & Mostafavi, A. (2020). Spatial biases in crowdsourced data: Social media content attention concentrates on populous areas in disasters. Computers, Environment and Urban Systems, 83, 101514.'
 ---
 
